@@ -80,6 +80,8 @@
 
 - [x-waf](https://github.com/xsec-lab/x-waf)：适用于中小企业的云waf 。
 
+- [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf): High-performance WAF built on the OpenResty stack
+
 **堡垒机**
 
 - [Jumpserver](https://github.com/jumpserver/jumpserver)：全球首款完全开源的堡垒机，是符合4A的专业运维审计系统。
