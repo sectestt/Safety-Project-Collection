@@ -82,6 +82,8 @@
 
 - [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf): High-performance WAF built on the OpenResty stack
 
+- [OpenWAF](https://gitee.com/miracleqi/OpenWAF): 第一个全方位开源的Web应用防护系统（WAF），更全面的防护功能，更多样的防护策略
+
 **堡垒机**
 
 - [Jumpserver](https://github.com/jumpserver/jumpserver)：全球首款完全开源的堡垒机，是符合4A的专业运维审计系统。
